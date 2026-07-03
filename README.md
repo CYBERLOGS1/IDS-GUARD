@@ -1,4 +1,7 @@
+
 # PyIDS 🚨
+
+<img width="1365" height="767" alt="Screenshot 2026-07-01 132315" src="https://github.com/user-attachments/assets/6ecf73b2-c9e0-468c-8f1c-0bfa97b02dc3" />
 
 **PyIDS** is a terminal-based Python Intrusion Detection System. It captures live traffic with **Scapy**, runs it through a rule-based, stateful detection engine, and renders everything on a full-screen **Rich** dashboard — alerts, live packet stream, protocol breakdown, top talkers, top targeted ports, and blocked IPs, all updating in real time.
 
